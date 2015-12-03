@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1447991907 source:d:\telkom university\semester 3\asd\grup - anggota (tubes)\list.cpp
+	"list.h"
+
+1448680413 d:\telkom university\semester 3\asd\grup - anggota (tubes)\list.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1448783901 source:d:\telkom university\semester 3\asd\grup - anggota (tubes)\main.cpp
+	"multilist.h"
+
+1448758692 source:d:\telkom university\semester 3\asd\grup - anggota (tubes)\multilist.cpp
+	"multilist.h"
+
+1448733144 d:\telkom university\semester 3\asd\grup - anggota (tubes)\multilist.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1448765453 source:d:\telkom university\semester 3\asd\grup - anggota (tubes)\multilist-final.cpp
+	"multilist.h"
+
